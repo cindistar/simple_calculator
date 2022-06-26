@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is a simple calculator using Flutter.
+This is a simple calculator using Flutter with light and dark mode.
 
 <p float="left">
   <img src="web/icons/cal_1.jpg" width="250" />
